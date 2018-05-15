@@ -1,0 +1,3 @@
+reset command check 
+
+2 lines
